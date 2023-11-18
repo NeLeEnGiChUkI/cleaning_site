@@ -4,6 +4,20 @@
 }
 h1{
     color: rgb(238, 23, 148);
+
+    font-family: "Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-left: 50px;
+}
+h6{
+    color: gray;
+    font-family: "Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-left: 50px;
+}
+p{
+    margin-left: 50px;
+    font-family:"Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
 }
 
 h5{
@@ -28,3 +42,4 @@ p{
 .img-home {
     z-index: -3;
 }
+
