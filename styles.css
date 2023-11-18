@@ -1,5 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 h1{
     color: rgb(238, 23, 148);
+
     font-family: "Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     margin-left: 50px;
 }
@@ -12,3 +17,29 @@ p{
     margin-left: 50px;
     font-family:"Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
+}
+
+h5{
+    color: rgb(183, 175, 175);
+}
+p{
+    color:black;
+}
+
+/* Nav */
+.navbar {
+    background-color: #9AE9E3;
+}
+.home-page {
+    background-color: #9AE9E3;
+}
+.home-contact-btn {
+    padding: 3px;
+    background-color: #deffff;
+    border-radius: 5px;
+}
+.img-home {
+    z-index: -3;
+}
+
