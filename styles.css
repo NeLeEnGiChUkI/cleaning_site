@@ -18,7 +18,7 @@ p{
     font-family:"Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-}
+
 
 h5{
     color: rgb(183, 175, 175);
@@ -29,10 +29,10 @@ p{
 
 /* Nav */
 .navbar {
-    background-color: #b8f4ea;
+    background-color: #b6f2e8;
 }
 .home-page {
-    background-color: #b8f4ea;
+    background-color: #b6f2e8;
 }
 .home-contact-btn {
     padding: 3px;
